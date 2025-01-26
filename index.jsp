@@ -256,7 +256,7 @@
         <table class="players-table">
             <thead>
                 <tr>
-                    <th>Player Name</th>
+                    <th> Name</th>
                     <th>Player Guess</th>
                     <th>Machine Number</th>
                     <th>Result</th>
