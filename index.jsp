@@ -256,7 +256,7 @@
         <table class="players-table">
             <thead>
                 <tr>
-                    <th> you fucking Name </th>
+                    <th>  Name </th>
 <<<<<<< HEAD
                     <th> Guess</th>
                     <th> Number</th>
