@@ -257,8 +257,13 @@
             <thead>
                 <tr>
                     <th> Name</th>
+<<<<<<< HEAD
                     <th> Guess</th>
                     <th> Number</th>
+=======
+                    <th>Player Guess</th>
+                    <th>Machine Number</th>
+>>>>>>> d6c8bf8180f37687373e856ebaf6c38dfb7fa2c7
                     <th>Result</th>
                     <th>Time</th>
                 </tr>
