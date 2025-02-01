@@ -247,7 +247,7 @@
         </form>
 
         <!-- כפתור "Start Over" אפשרי, אבל בפועל רק מרענן דף (לא משנה הרבה כי כל Guess הוא משחק חדש) -->
-        <a class="start-over" href="index.jsp">Update</a>
+        <a class="start-over" href="index.jsp">Start over</a>
     </div>
 
     <!-- טבלת היסטוריה - שומרת את כל הניחושים של כל המשתמשים -->
