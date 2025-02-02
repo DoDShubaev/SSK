@@ -201,7 +201,7 @@
                 status = "Invalid Range";
             } else if (guess < machineNumber) {
                 message = "Too low! (Machine's number was " + machineNumber + ")";
-                status = "LOW";
+                status = "LO";
             } else if (guess > machineNumber) {
                 message = "Too high! (Machine's number was " + machineNumber + ")";
                 status = "HIGH";
