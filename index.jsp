@@ -279,7 +279,7 @@
                     String time       = (entry.length > 4) ? entry[4] : "";
             %>
                 <tr>
-                    <td><%= NName %></td>
+                    <td><%= Name %></td>
                     <td><%= guess %></td>
                     <td><%= machineNum %></td>
                     <td><%= stat %></td>
